@@ -1,7 +1,7 @@
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 25        // Pin where the NeoPixel data line is connected
-#define NUMPIXELS 1   // Number of NeoPixels
+#define NUMPIXELS 3   // Number of NeoPixels
 
 const int microphonePin = A0;  // Analog pin connected to the microphone's AOUT
 const int digitalPin = 1;      // Digital pin connected to the microphone's D0
